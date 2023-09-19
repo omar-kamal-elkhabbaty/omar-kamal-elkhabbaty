@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm OMAR KAMAL</h1>
 <h3 align="center">As a frontend developer, I have a passion for creating beautiful and intuitive user interfaces that provide an exceptional user experience. With a solid foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive web applications using modern frameworks such as React and Vue.js. My experience includes designing and implementing complex UI components, optimizing website performance, and collaborating with cross-functional teams to deliver high-quality products. I am skilled in using tools such as Git, Webpack, and NPM, and I am always eager to learn new technologies and stay up-to-date with industry trends. In addition to my technical skills, I am a strong communicator and team player, with a focus on delivering projects on time and within budget. I enjoy collaborating with designers, product managers, and other developers to achieve the best possible results. If you are looking for a frontend developer who is passionate about creating outstanding user experiences and has the skills and experience to bring your project to life, please don't hesitate to get in touch.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-kamal-elkhabbaty" alt="omar-kamal-elkhabbaty" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **JS and React**
